@@ -10,7 +10,6 @@
     min-height: 100vh;
     background-size: 100%;
     background-repeat: round;
-    resize: both;
     overflow: auto;
     display: flex;
     justify-content: center;
